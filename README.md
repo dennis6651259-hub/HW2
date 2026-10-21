@@ -1,9 +1,10 @@
 # 王鼎昌 · 7115064172 : HW2 · King County 房價預測與回歸分析
 ## 網站發布
 
-網頁內點選原始報告，即可進入這次HW2的PDF檔完整內容
+網頁內的原始報告為這次HW2的完整報告
 
 https://dennis6651259-hub.github.io/HW2/
+
 <img width="1068" height="894" alt="{B8EE1D51-788E-4E41-BD1C-A28007A55864}" src="https://github.com/user-attachments/assets/2937ce56-e107-4359-8426-3ee06f77d59e" />
 
 ## 內容
