@@ -1,17 +1,6 @@
-# HW2 · King County 房價預測與回歸分析實驗室
-
-王鼎昌 · 7115064172 · 物聯網數據分析與應用
-
+# 王鼎昌 · 7115064172 : HW2 · King County 房價預測與回歸分析
 ## 網站發布
-
-本專案為無須建置的靜態網站。首次啟用 GitHub Pages：
-
-1. 開啟此儲存庫 **Settings → Pages**。
-2. Source 選 **Deploy from a branch**。
-3. Branch 選 **main**，資料夾選 **/ (root)**，按 Save。
-4. 等待 Pages 建置完成後，以設定頁提供的 Visit site 連結開啟。
-
-一般網址為 `https://dennis6651259-hub.github.io/HW2/`；在 Pages 尚未啟用前不代表已能瀏覽。
+https://dennis6651259-hub.github.io/HW2/
 
 ## 內容與加分功能
 
